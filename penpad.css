@@ -1,0 +1,40 @@
+.color-change {
+  top: 20px;
+  margin-left: 35%;  
+}
+
+#wrapper {
+  width: 640px;
+  height: 640px;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #ffffff;
+}
+
+.row {
+  width: 640px;
+  background: #ffffff;
+}
+
+.square {
+  float: left;
+  margin: 0px;
+  outline: 1px solid black;
+  display: inline-block;
+  opacity: 1;
+  background: white;
+}
+
+.draw {
+  background: red;
+}
+
+.outline {
+  outline: 1px solid black;
+}
+
+.black {
+  background: black;
+  outline: 1px solid white;
+}
